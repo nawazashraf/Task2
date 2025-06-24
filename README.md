@@ -65,5 +65,27 @@ The dataset contains the following key fields:
 ![image](https://github.com/user-attachments/assets/dcc9f814-2206-41dd-b44d-6739296e19b2)
 
 
+---
+
+## 🛠️ Tools Used
+
+- **Tableau Public** – for data visualization and storytelling
+- **Microsoft Excel** – initial data cleaning and formatting
+
+---
+
+
+## 🧠 Key Insights
+
+- Q4 shows the highest sales activity across all years
+- Technology leads in profit across customer segments
+- A small group of products contributes most to revenue
+- Western U.S. states are the most profitable regions
+
+---
+
+
+
+
 
 
